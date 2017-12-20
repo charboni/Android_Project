@@ -1,4 +1,4 @@
-package com.example.nicolas.android_project;
+package fr.eseo.dis.android_project;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
